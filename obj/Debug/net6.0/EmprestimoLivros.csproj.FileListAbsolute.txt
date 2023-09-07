@@ -1,0 +1,8 @@
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.csproj.AssemblyReference.cache
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.AssemblyInfoInputs.cache
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.AssemblyInfo.cs
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.csproj.CoreCompileInputs.cache
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.RazorAssemblyInfo.cache
+C:\Users\mtdev\OneDrive\Área de Trabalho\EmprestimoLivros\obj\Debug\net6.0\EmprestimoLivros.RazorAssemblyInfo.cs
