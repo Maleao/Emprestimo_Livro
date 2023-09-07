@@ -1,4 +1,5 @@
 ﻿using EmprestimoLivros.Models;
+using EmprestimoLivros.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
