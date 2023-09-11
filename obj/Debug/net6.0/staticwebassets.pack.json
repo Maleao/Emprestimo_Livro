@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\EmprestimoLivros.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\css\\Morph.css",
+      "PackagePath": "staticwebassets\\css\\Morph.css"
+    },
+    {
       "Id": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\img\\livro.png",
+      "PackagePath": "staticwebassets\\img\\livro.png"
     },
     {
       "Id": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\js\\site.js",

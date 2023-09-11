@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xPDtn2Not4CfjWx0ezPikYAyDASb/ELagCa9CMvHR/M=",
+  "Hash": "N3CkHOTpQHOLC+svgs70aU4P6fD1V0BjLd28GQcIUwo=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimoLivros.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\css\\Morph.css",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "css/Morph.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Morph.css"
+    },
+    {
       "Identity": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\css\\site.css",
       "SourceId": "EmprestimoLivros",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\img\\livro.png",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "img/livro.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\livro.png"
     },
     {
       "Identity": "C:\\Users\\mtdev\\OneDrive\\Área de Trabalho\\EmprestimoLivros\\wwwroot\\js\\site.js",
